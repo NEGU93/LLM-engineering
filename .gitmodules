@@ -1,0 +1,3 @@
+[submodule "rag_negu_expert"]
+	path = rag_negu_expert
+	url = https://github.com/NEGU93/rag-negu-expert
