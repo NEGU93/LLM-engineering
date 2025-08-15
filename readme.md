@@ -43,9 +43,20 @@ A **production-ready multi-provider AI chat application** with:
 ## 🛠️ How to Clone This Portfolio
 
 Since this repository uses **Git submodules**, clone it with:
+
 ```bash
 git clone --recurse-submodules https://github.com/NEGU93/ML-engineering.git
 ```
+
+If you already cloned without submodules:
+
+```bash
+git submodule update --init --recursive
+```
+
+## 👨‍💻 Author
+**J Agustin Barrachina (NEGU93)**  
+[GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
 
 
 
