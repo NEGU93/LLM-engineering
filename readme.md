@@ -35,7 +35,8 @@ A **production-ready multi-provider AI chat application** with:
 - Optimized for performance with async and caching
 
 ### 3️⃣ **Regression Model with LLMs – Web Offer Finder**
-> [!CAUTION] Coming soon 🚧
+> [!CAUTION]
+> Coming soon 🚧
 
 **Key Tech:** LLaMA, QLoRA, Agents.
 
@@ -44,6 +45,7 @@ A **production-ready multi-provider AI chat application** with:
 Since this repository uses **Git submodules**, clone it with:
 ```bash
 git clone --recurse-submodules https://github.com/NEGU93/ML-engineering.git
+```
 
 
 
