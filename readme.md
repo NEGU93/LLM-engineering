@@ -9,20 +9,24 @@ Each project demonstrates different skills — from fine-tuning LLMs, to buildin
 
 ## 📂 Projects Included
 
-### 1️⃣ **Regression Model with LLMs – Web Offer Finder**
-> **Status:** Coming soon 🚧
 
-A cutting-edge approach to regression using **Large Language Models (LLMs)**.  
-I fine-tune a **LLaMA model** with **QLoRA** and integrate it into an autonomous agent that:
-- Surfs the web
-- Analyzes offers in real time
-- Extracts structured insights for decision-making
+### 1️⃣ [🔍 RAG NEGU Expert](projects/rag-negu-expert)
 
-**Key Tech:** LLaMA, QLoRA, LangChain Agents, Web Scraping, Prompt Engineering.
+A **Retrieval-Augmented Generation** system that acts as a **personal AI expert** on my experience, skills, and projects.
 
----
+👉 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/NEGU93/rag-negu-expert) 🤗
+
+**Features:**
+- Context-aware question answering
+- Knowledge base powered by my professional background
+- Interactive **Gradio** interface
+
+![RAG Example](https://github.com/NEGU93/rag-negu-expert/img/chat_example.png)
+
 
 ### 2️⃣ [🤖 Chat AI – Universal LLM Interface](projects/chat_ai)
+
+
 A **production-ready multi-provider AI chat application** with:
 - Unified interface for **OpenAI, Claude, Gemini, LLaMA, Hugging Face**
 - Real-time **voice integration**
@@ -38,21 +42,20 @@ A **production-ready multi-provider AI chat application** with:
 
 ---
 
-### 3️⃣ [🔍 RAG NEGU Expert](projects/rag-negu-expert)
-A **Retrieval-Augmented Generation** system that acts as a **personal AI expert** on my experience, skills, and projects.
+### 3️⃣ **Regression Model with LLMs – Web Offer Finder**
+> **Status:** Coming soon 🚧
 
-**Features:**
-- Context-aware question answering
-- Knowledge base powered by my professional background
-- Interactive **Gradio** interface
-- **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/NEGU93/rag-negu-expert)**
+A cutting-edge approach to regression using **Large Language Models (LLMs)**.  
+I fine-tune a **LLaMA model** with **QLoRA** and integrate it into an autonomous agent that:
+- Surfs the web
+- Analyzes offers in real time
+- Extracts structured insights for decision-making
 
-![RAG Example](https://github.com/NEGU93/rag-negu-expert/img/chat_example.png)
-
----
+**Key Tech:** LLaMA, QLoRA, LangChain Agents, Web Scraping, Prompt Engineering.
 
 ## 🛠️ How to Clone This Portfolio
 
 Since this repository uses **Git submodules**, clone it with:
 ```bash
 git clone --recurse-submodules https://github.com/NEGU93/ML-engineering.git
+
