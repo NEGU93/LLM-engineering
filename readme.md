@@ -34,7 +34,7 @@ A **production-ready multi-provider AI chat application** with:
 - Streamlit-powered modern UI
 - Optimized for performance with async and caching
 
-### 3️⃣ **Regression Model with LLMs – Web Offer Finder**
+### 3️⃣ **Regression Model with LLMs**
 > [!CAUTION]
 > Coming soon 🚧
 
@@ -57,6 +57,7 @@ git submodule update --init --recursive
 ## 👨‍💻 Author
 **J Agustin Barrachina (NEGU93)**  
 [GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
+
 
 
 
