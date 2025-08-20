@@ -7,7 +7,7 @@ Each project demonstrates different skills — from fine-tuning LLMs, to buildin
 
 ## 📂 Projects Included
 
-### 1️⃣ [🔍 RAG NEGU Expert](https://github.com/NEGU93/rag-negu-expert)
+### [🔍 RAG NEGU Expert](https://github.com/NEGU93/rag-negu-expert)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/NEGU93/rag-negu-expert)
 [![Gradio](https://img.shields.io/badge/Gradio-5.34.2-orange)](https://gradio.app/)
@@ -19,7 +19,9 @@ A **Retrieval-Augmented Generation** system that acts as a **personal AI expert*
 - Knowledge base powered by my professional background
 - Interactive **Gradio** interface
 
-### 2️⃣ [🤖 Chat AI – Universal LLM Interface](https://github.com/NEGU93/chat_ai)
+**Tech Stack:** RAG, Vector databases, Gradio, LangChain
+
+### [🤖 Chat AI – Universal LLM Interface](https://github.com/NEGU93/chat_ai)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
@@ -34,11 +36,18 @@ A **production-ready multi-provider AI chat application** with:
 - Streamlit-powered modern UI
 - Optimized for performance with async and caching
 
-### 3️⃣ **Regression Model with LLMs**
-> [!CAUTION]
-> Coming soon 🚧
+**Tech Stack:** Streamlit, OpenAI API, Claude API, Gemini, OLLAMA, Hugging Face
 
-**Key Tech:** LLaMA, QLoRA, Agents.
+### [📊 Regression Model with LLMs](https://github.com/NEGU93/llm_regression)
+
+Exploring regression tasks with Large Language Models - can LLMs predict numerical values effectively?
+
+**Key Features:**
+- Fine-tuned Llama 3.1 with **QLoRA** optimization
+- GPT-4 mini with **RAG** enhancement
+- Comprehensive benchmarking across 9 different models
+
+**Tech Stack:** LLaMA 3.1, QLoRA, GPT-4, RAG, ChromaDB, Hugging Face
 
 ## 🛠️ How to Clone This Portfolio
 

@@ -4,3 +4,6 @@
 [submodule "chat_ai"]
 	path = chat_ai
 	url = https://github.com/NEGU93/chat_ai
+[submodule "llm_regression"]
+	path = llm_regression
+	url = https://github.com/NEGU93/llm_regression.git
