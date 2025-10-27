@@ -12,7 +12,6 @@ Each project demonstrates different skills — from fine-tuning LLMs, to buildin
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/NEGU93/rag-negu-expert)
 [![Gradio](https://img.shields.io/badge/Gradio-5.34.2-orange)](https://gradio.app/)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1+-blue.svg)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-orange.svg)
 ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange.svg)
 
 A **Retrieval-Augmented Generation** system that acts as a **personal AI expert** on my experience, skills, and projects.
@@ -23,10 +22,10 @@ A **Retrieval-Augmented Generation** system that acts as a **personal AI expert*
 
 ### [🤖 Chat AI – Universal LLM Interface](https://github.com/NEGU93/chat_ai)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 [![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/NEGU93/chat_ai)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-4.30+-yellow.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 
 A **production-ready multi-provider AI chat application** with:
 - Unified interface for **OpenAI, Claude, Gemini, LLaMA, Hugging Face**
@@ -39,7 +38,6 @@ A **production-ready multi-provider AI chat application** with:
 
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Datasets-yellow.svg)
 ![QLoRA](https://img.shields.io/badge/QLoRA-Fine--tuning-red.svg)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-orange.svg)
 ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange.svg)
 
 Exploring regression tasks with Large Language Models - can LLMs predict numerical values effectively?
@@ -53,7 +51,6 @@ Exploring regression tasks with Large Language Models - can LLMs predict numeric
 
 [![Gradio](https://img.shields.io/badge/Gradio-5.34.2-orange)](https://gradio.app/)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Framework-blue.svg)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-orange.svg)
 ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange.svg)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Structured%20Output-purple.svg)
 
@@ -84,6 +81,7 @@ git submodule update --init --recursive
 ## 👨‍💻 Author
 **J Agustin Barrachina (NEGU93)**  
 [GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
+
 
 
 
