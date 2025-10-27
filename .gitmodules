@@ -7,3 +7,6 @@
 [submodule "llm_regression"]
 	path = llm_regression
 	url = https://github.com/NEGU93/llm_regression.git
+[submodule "deals_finder_agent"]
+	path = deals_finder_agent
+	url = https://github.com/NEGU93/deals_finder_agent.git
