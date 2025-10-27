@@ -49,6 +49,23 @@ Exploring regression tasks with Large Language Models - can LLMs predict numeric
 
 **Tech Stack:** LLaMA 3.1, QLoRA, GPT-4, RAG, ChromaDB, Hugging Face
 
+### [🛍️ Deals Finder Agent](https://github.com/NEGU93/deals_finder_agent)
+
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
+
+An **autonomous multi-agent AI system** that continuously hunts for online deals using intelligent price estimation.
+
+**Key Features:**
+- Multi-agent orchestration (Scanner, Planner, Price Estimator)
+- RAG-powered price prediction using ChromaDB and fine-tuned LLM
+- Automated RSS feed monitoring from DealNews
+- Structured Outputs with Pydantic for reliable data extraction
+- Real-time Gradio dashboard with auto-refresh
+- Smart filtering (only surfaces deals with $50+ discounts)
+
+**Tech Stack:** Multi-agent framework, RAG, ChromaDB, GPT-4o-mini, Gradio, SentenceTransformers, Structured Ouptut (Pydantic)
+
 ## 🛠️ How to Clone This Portfolio
 
 Since this repository uses **Git submodules**, clone it with:
@@ -66,6 +83,7 @@ git submodule update --init --recursive
 ## 👨‍💻 Author
 **J Agustin Barrachina (NEGU93)**  
 [GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
+
 
 
 
