@@ -9,9 +9,10 @@ Each project demonstrates different skills — from fine-tuning LLMs, to buildin
 
 ### [🔍 RAG NEGU Expert](https://github.com/NEGU93/rag-negu-expert)
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/NEGU93/rag-negu-expert)
 [![Gradio](https://img.shields.io/badge/Gradio-5.34.2-orange)](https://gradio.app/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
 
 A **Retrieval-Augmented Generation** system that acts as a **personal AI expert** on my experience, skills, and projects.
 
@@ -28,6 +29,7 @@ A **Retrieval-Augmented Generation** system that acts as a **personal AI expert*
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-4.30+-yellow.svg)
 [![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/NEGU93/chat_ai)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
 
 A **production-ready multi-provider AI chat application** with:
 - Unified interface for **OpenAI, Claude, Gemini, LLaMA, Hugging Face**
@@ -55,6 +57,7 @@ Exploring regression tasks with Large Language Models - can LLMs predict numeric
 ### [🛍️ Deals Finder Agent](https://github.com/NEGU93/deals_finder_agent)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+[![Gradio](https://img.shields.io/badge/Gradio-5.34.2-orange)](https://gradio.app/)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
 
 An **autonomous multi-agent AI system** that continuously hunts for online deals using intelligent price estimation.
@@ -86,6 +89,7 @@ git submodule update --init --recursive
 ## 👨‍💻 Author
 **J Agustin Barrachina (NEGU93)**  
 [GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
+
 
 
 
