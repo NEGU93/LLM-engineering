@@ -40,6 +40,9 @@ A **production-ready multi-provider AI chat application** with:
 
 ### [📊 Regression Model with LLMs](https://github.com/NEGU93/llm_regression)
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)
+
 Exploring regression tasks with Large Language Models - can LLMs predict numerical values effectively?
 
 **Key Features:**
@@ -83,6 +86,7 @@ git submodule update --init --recursive
 ## 👨‍💻 Author
 **J Agustin Barrachina (NEGU93)**  
 [GitHub](https://github.com/NEGU93) | [LinkedIn](https://www.linkedin.com/in/jose-agustin-barrachina/) | [Hugging Face](https://huggingface.co/NEGU93)
+
 
 
 
